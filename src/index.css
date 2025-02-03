@@ -1,0 +1,13 @@
+/* Tailwind CSS imports */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your custom CSS below */
+.custom-style {
+  background-color: #f0f0f0;
+  padding: 20px;
+  font-size: 16px;
+}
+
+/* Add more custom styles as needed */
